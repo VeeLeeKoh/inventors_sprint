@@ -33,7 +33,6 @@ This repository contains publically available data for the Inventors Program spr
 + Refinery production
 + Refinery capacity
 + Imports and Exports
-+ Oil movement
 + Oil consumption
 
 
