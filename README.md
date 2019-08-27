@@ -1,5 +1,16 @@
 ![Inventors Program Logo](https://github.com/jessepisel/inventors_sprint/blob/master/inventors.png)
 
+# Contents
+
+This repository contains publically available data for the Inventors Program sprint for Fall 2019
++ WTI oil price data - EIA
++ Oil production data - EIA
++ Refinery production - EIA
++ Refinery capacity - EIA
++ Imports and Exports - EIA
++ Oil consumption - EIA
++ Economic indicators (GDP, vehicle sales, etc.) -U.S. Bureau of Economic Analysis 
+
 # 2019 Inventors Program
 NSC 323 - Inventors Program Unique I.D.: NSC 323 45749
 
@@ -26,18 +37,6 @@ You will gain:
 MEETS: TTH 9:00-10:30 AM PMA(RLM) 7.116
 
 INSTRUCTOR: Jesse Pisel
-
-#Contents
-
-This repository contains publically available data for the Inventors Program sprint for Fall 2019
-+ WTI oil price data - EIA
-+ Oil production data - EIA
-+ Refinery production - EIA
-+ Refinery capacity - EIA
-+ Imports and Exports - EIA
-+ Oil consumption - EIA
-+ Economic indicators (GDP, vehicle sales, etc.) -U.S. Bureau of Economic Analysis 
-
 
 **Suggested References:** 
 
