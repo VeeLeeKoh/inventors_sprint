@@ -1,3 +1,5 @@
+![Inventors Program Logo](https://github.com/jessepisel/inventors_sprint/blob/master/inventors.png)
+
 # 2019 Inventors Program
 NSC 323 - Inventors Program Unique I.D.: NSC 323 45749
 
