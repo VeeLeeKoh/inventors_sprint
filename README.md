@@ -30,12 +30,13 @@ INSTRUCTOR: Jesse Pisel
 #Contents
 
 This repository contains publically available data for the Inventors Program sprint for Fall 2019
-+ WTI oil price data
-+ Oil production data
-+ Refinery production
-+ Refinery capacity
-+ Imports and Exports
-+ Oil consumption
++ WTI oil price data - EIA
++ Oil production data - EIA
++ Refinery production - EIA
++ Refinery capacity - EIA
++ Imports and Exports - EIA
++ Oil consumption - EIA
++ Economic indicators (GDP, vehicle sales, etc.) -U.S. Bureau of Economic Analysis 
 
 
 **Suggested References:** 
